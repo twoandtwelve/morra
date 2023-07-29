@@ -1,4 +1,9 @@
-# Assignment 1
+# Morra
 
-You will find instructions for this assignment on the course website.
+Install files locally. 
 
+To use open the folder directory on local computer and run this prompt in command prompt/terminal.
+
+```
+./mvnw clean compile exec:java@run
+```
